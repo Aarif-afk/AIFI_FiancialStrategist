@@ -1,0 +1,4 @@
+pdfkit>=1.0.0
+playwright>=1.40.0
+fpdf2>=2.7.0
+requests>=2.31.0
